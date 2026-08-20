@@ -1,2 +1,2 @@
 # GitDemo
-My first Git repository.
+This project demonstrates Git commands.My first Git repository.
